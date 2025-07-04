@@ -1,7 +1,7 @@
-# GitHub Webhook Receiver
+# GitHub Webhook Receiver action-repo 
 
 This project receives GitHub webhook events (`push`, `pull_request`, and `merge`) and stores them in MongoDB. It displays those events in a GitHub-style UI that refreshes every 15 seconds.
-
+🔗 [webhook-repo](https://github.com/debangshucode/webhook-repo)
 ## 🛠 Tech Stack
 
 - Flask (Python)
